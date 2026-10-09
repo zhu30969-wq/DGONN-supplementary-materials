@@ -1,4 +1,4 @@
-# DGONN supplementary materials
+# Physical reachability of layer-wise training targets in block-MZI optical neural networks: supplemental document
 
 Supplement 1 for **Physical reachability of layer-wise training targets in block-MZI optical neural networks**.
 
@@ -8,8 +8,8 @@ Supplement 1 for **Physical reachability of layer-wise training targets in block
 
 ## Download
 
-- [Read Supplement 1 (PDF)](DGONN_PR_v0.14_Supplement1.pdf)
-- [Download Supplement 1 (Word)](DGONN_PR_v0.14_Supplement1.docx)
+- [Read Supplement 1 (PDF)](Physical%20reachability%20of%20layer-wise%20training%20targets%20in%20block-MZI%20optical%20neural%20networks%EF%BC%9A%20supplemental%20document.pdf)
+- [Download Supplement 1 (Word)](Physical%20reachability%20of%20layer-wise%20training%20targets%20in%20block-MZI%20optical%20neural%20networks%EF%BC%9A%20supplemental%20document.docx)
 
 The PDF preserves the layout of the Word document. Both files correspond to the same v0.14 supplement.
 
