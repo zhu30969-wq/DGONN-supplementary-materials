@@ -2,16 +2,20 @@
 
 Supplement 1 for **Physical reachability of layer-wise training targets in block-MZI optical neural networks**.
 
-**Authors:** Boyu Zhu, Fenghai Liu, Cong Xu, Chaorong Zhou, and Guozhu Jia  
-**Affiliation:** Sichuan Normal University, Chengdu, China  
-**Version:** v0.14 (9 October 2026)
+**Authors:** Boyu Zhu, Fenghai Liu, Cong Xu, CHAORONG ZHOU, and Guozhu Jia
+
+**Affiliation:** Sichuan Normal University, Chengdu, China
+
+**Version:** OE submission supplement, 2026-10-23 (`oe-2026-10-23`)
 
 ## Download
 
 - [Read Supplement 1 (PDF)](Physical%20reachability%20of%20layer-wise%20training%20targets%20in%20block-MZI%20optical%20neural%20networks%EF%BC%9A%20supplemental%20document.pdf)
 - [Download Supplement 1 (Word)](Physical%20reachability%20of%20layer-wise%20training%20targets%20in%20block-MZI%20optical%20neural%20networks%EF%BC%9A%20supplemental%20document.docx)
 
-The PDF preserves the layout of the Word document. Both files correspond to the same v0.14 supplement.
+The Word and PDF files are the same Supplement 1 supplied with the Optics Express submission package dated 23 October 2026. The public filenames are retained so that existing download links continue to work.
+
+This version uses the corrected manuscript cross-references: **Tables 4 and 5**, **Proposition 3**, and **Table 7** for the SPSA results. See [VERSION.md](VERSION.md) for the version history and [SHA256SUMS.txt](SHA256SUMS.txt) for checksums.
 
 ## Contents
 
@@ -30,9 +34,9 @@ The supplement contains Sections S1–S10, Figures S1–S5, Tables S1–S29, and
 
 ## Citation
 
-B. Zhu, F. Liu, C. Xu, C. Zhou, and G. Jia, “Supplementary materials for ‘Physical reachability of layer-wise training targets in block-MZI optical neural networks’,” GitHub, v0.14 (2026), https://github.com/zhu30969-wq/DGONN-supplementary-materials.
+B. Zhu, F. Liu, C. Xu, C. Zhou, and G. Jia, “Supplementary materials for ‘Physical reachability of layer-wise training targets in block-MZI optical neural networks’,” GitHub, OE submission supplement, 23 October 2026, https://github.com/zhu30969-wq/DGONN-supplementary-materials.
 
-The `v0.14` tag identifies the version accompanying the manuscript. See [CITATION.cff](CITATION.cff) for machine-readable citation metadata and [SHA256SUMS.txt](SHA256SUMS.txt) for file checksums.
+See [CITATION.cff](CITATION.cff) for machine-readable citation metadata. The earlier Photonics Research version remains available at the [`v0.14` tag](https://github.com/zhu30969-wq/DGONN-supplementary-materials/tree/v0.14); it is not the current OE submission supplement.
 
 ## Repository scope
 
